@@ -1,0 +1,133 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "dish": "Mutton Karahi",
+            "category": "Mutton",
+            "price": 3200,
+            "description": "Delicious mutton karahi.",
+            "image": "../images/muttonkarahi.jpeg",
+            "tag": "Traditional"
+        },
+        {
+            "id": 2,
+            "dish": "Chicken Biryani",
+            "category": "Chicken",
+            "price": 500,
+            "description": "Authentic chicken biryani.",
+            "image": "../images/baryani.jpeg",
+            "tag": "Traditional"
+        },{
+            "id": 3,
+            "dish": "Mutton Kabab",
+            "category": "Mutton",
+            "price": 3200,
+            "description": "Delicious mutton Kabab.",
+            "image": "../images/muttonkabab.jpeg",
+            "tag": "Special"
+        },
+        {
+            "id": 4,
+            "dish": "Chicken Sajji",
+            "category": "Chicken",
+            "price": 2500,
+            "description": "Balochi Sajji Kabab.",
+            "image": "../images/chickensajji.jpeg",
+            "tag": "Special"
+        },{
+            "id": 5,
+            "dish": "Mutton Sajji",
+            "category": "Mutton",
+            "price": 35000,
+            "description": "Avalibale in Kgs along with Kabul Rice.",
+            "image": "../images/muttonSajji.jpeg",
+            "tag": "Special"
+        },
+        {
+            "id": 6,
+            "dish": "Desi Chicken Karahi",
+            "category": "Chicken",
+            "price": 2000,
+            "description": "Desi Chicken Karahi.",
+            "image": "../images/chicken-karahi.jpeg",
+            "tag": "Special"
+        },
+        {
+            "id": 7,
+            "dish": "Kabuli Pulawo",
+            "category": "Rice",
+            "price": 3200,
+            "description": "Special Kabuli Pullow.",
+            "image": "../images/kabuli.jpeg",
+            "tag": "New"
+        },
+        {
+            "id": 8,
+            "dish": "7up",
+            "category": "Drink",
+            "price": 100,
+            "description": "Half Litter 7up.",
+            "image": "../images/7up.jpeg",
+            "tag": "Special"
+        },
+        {
+            "id": 9,
+            "dish": "Chicke Kabab",
+            "category": "Chicken",
+            "price": 3200,
+            "description": "8 Piece of Spicy Chicken Kabab.",
+            "image": "../images/chickenKabab.jpeg",
+            "tag": "Special"
+        },
+        {
+            "id": 10,
+            "dish": "Dum Pukh",
+            "category": "Mutton",
+            "price": 1800,
+            "description": "Mutton Dum Pukh Special.",
+            "image": "../images/dumpukh.jpeg",
+            "tag": "Favorit "
+        },
+        {
+            "id": 11,
+            "dish": "Coca-Cola",
+            "category": "Drink",
+            "price": 100,
+            "description": "Half Litter Coca-Cola.",
+            "image": "../images/coca-cola.jpeg",
+            "tag": "Special"
+        },{
+        "id": 12,
+        "dish":"Dew",
+        "category": "Drink",
+        "price": 100,
+        "description": "Half Litter Dew",
+        "image": "../images/dew.jpeg",
+        "tag": "Traditional"
+    },{
+        "id": 13,
+        "dish":"Lamb Chops",
+        "category": "Mutton",
+        "price": 3000,
+        "description": "One Kg of Lamb Chops with Tandoori Nan",
+        "image": "../images/lambchops.jpeg",
+        "tag": "Special"
+    },{
+        "id": 14,
+        "dish":"Mutton Sikh Kabab",
+        "category": "Mutton",
+        "price": 1200,
+        "description": "8 Piece of Spicy Kabab",
+        "image": "../images/muttonsikhkabab.jpeg",
+        "tag": "Special"
+    },{
+        "id": 15,
+        "dish":"Kaddi Kabab",
+        "category": "Mutton",
+        "price": 28000,
+        "description": "Mutton Kaddi Kabab Available for all",
+        "image": "../images/muttonKaddiKabab.jpeg",
+        "tag": "Favorit"
+    }
+    ]
+}
